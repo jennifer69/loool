@@ -134,6 +134,11 @@
                             <field name="NUM">100</field>
                           </block>
                         </value>
+                        <next>
+                          <block type="oled_color" id="539">
+                            <field name="OBJECT">BLACK</field>
+                          </block>
+                        </next>
                       </block>
                     </next>
                   </block>
